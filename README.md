@@ -1,3 +1,7 @@
-# Деплой приложения на сервер с использованием pm2
+# Mesto
+----
+## Деплой приложения на ubuntu с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+ * IP адрес: 84.201.142.87 
+ * Frontend: [https://test.nomoredomains.monster/](https://test.nomoredomains.monster/)
+ * Backend: [https://api.test.nomoredomains.monster/](https://api.test.nomoredomains.monster/)
